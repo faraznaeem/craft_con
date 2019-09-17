@@ -28,7 +28,7 @@
 	-	Technologies in decline (What will replace them?)
 	-	Technologies on the rise (What will have the biggest market shares?)
 - **Workshop** - How to market CA, CA-Labs & CA-nomads (15:00 - 16:00) **Pairs**
-	- How to market Craft Academy
+	- How to market Craft Academy/ External courses
 	- How to market CA-Labs
 	- How to market Teachable/CA Nomads
 - **Presentations** : Action points from the workshops (16:00 - 18:00) **Pairs**
