@@ -38,3 +38,6 @@
 
 ____
 
+Please note:
+**All decisions made by teammembers during the workshops will be implemented. Decide with care** 
+(exception is when faraz or thomas lays a veto for financial/resource/leagal reasons)
