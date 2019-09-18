@@ -17,7 +17,7 @@
 	
 ### Lunch (Order) (12:00 - 12:30)
 
-- **Workshop** - Personal development in Pragmatic Labs (13:00 - 14:00) **Pairs**
+- **Workshop** - Personal development in Pragmatic Labs (13:00 - 14:00) **Group**
 	- Answer three questions:
 		- Why am I here
 		- How would develop in my role
